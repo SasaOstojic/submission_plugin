@@ -1,0 +1,89 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 17 23:44:57.024314 2023] [mpm_winnt:notice] [pid 248:tid 924] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sun Dec 17 23:44:57.026272 2023] [mpm_winnt:notice] [pid 248:tid 924] AH00456: Server built: Apr 21 2020 13:46:54
+[Sun Dec 17 23:44:57.026272 2023] [core:notice] [pid 248:tid 924] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Sun Dec 17 23:44:57.035274 2023] [mpm_winnt:notice] [pid 248:tid 924] AH00418: Parent: Created child process 7016
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Sun Dec 17 23:44:59.091078 2023] [mpm_winnt:notice] [pid 7016:tid 548] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 18 00:45:39.741462 2023] [core:warn] [pid 8036:tid 804] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 18 00:45:39.745462 2023] [mpm_winnt:notice] [pid 8036:tid 804] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Dec 18 00:45:39.745462 2023] [mpm_winnt:notice] [pid 8036:tid 804] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Dec 18 00:45:39.745462 2023] [core:notice] [pid 8036:tid 804] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Mon Dec 18 00:45:39.751470 2023] [mpm_winnt:notice] [pid 8036:tid 804] AH00418: Parent: Created child process 14816
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 18 00:45:40.642774 2023] [mpm_winnt:notice] [pid 14816:tid 848] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 18 14:16:40.334818 2023] [core:warn] [pid 11960:tid 772] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Dec 18 14:16:40.337819 2023] [mpm_winnt:notice] [pid 11960:tid 772] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Dec 18 14:16:40.337819 2023] [mpm_winnt:notice] [pid 11960:tid 772] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Dec 18 14:16:40.337819 2023] [core:notice] [pid 11960:tid 772] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Mon Dec 18 14:16:40.348819 2023] [mpm_winnt:notice] [pid 11960:tid 772] AH00418: Parent: Created child process 12440
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 18 14:16:42.076840 2023] [mpm_winnt:notice] [pid 12440:tid 532] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:25:10.475450 2023] [core:warn] [pid 13336:tid 648] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 19 01:25:10.483438 2023] [mpm_winnt:notice] [pid 13336:tid 648] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Dec 19 01:25:10.483438 2023] [mpm_winnt:notice] [pid 13336:tid 648] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Dec 19 01:25:10.483438 2023] [core:notice] [pid 13336:tid 648] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Tue Dec 19 01:25:10.493442 2023] [mpm_winnt:notice] [pid 13336:tid 648] AH00418: Parent: Created child process 14152
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:25:13.049771 2023] [mpm_winnt:notice] [pid 14152:tid 848] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:26:06.961590 2023] [core:warn] [pid 1736:tid 580] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 19 01:26:06.969160 2023] [mpm_winnt:notice] [pid 1736:tid 580] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Dec 19 01:26:06.969160 2023] [mpm_winnt:notice] [pid 1736:tid 580] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Dec 19 01:26:06.969160 2023] [core:notice] [pid 1736:tid 580] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Tue Dec 19 01:26:06.977861 2023] [mpm_winnt:notice] [pid 1736:tid 580] AH00418: Parent: Created child process 1252
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:26:09.941561 2023] [mpm_winnt:notice] [pid 1252:tid 872] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:30:55.367521 2023] [core:warn] [pid 6876:tid 608] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 19 01:30:55.377519 2023] [mpm_winnt:notice] [pid 6876:tid 608] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Dec 19 01:30:55.377519 2023] [mpm_winnt:notice] [pid 6876:tid 608] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Dec 19 01:30:55.377519 2023] [core:notice] [pid 6876:tid 608] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Tue Dec 19 01:30:55.384520 2023] [mpm_winnt:notice] [pid 6876:tid 608] AH00418: Parent: Created child process 16372
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:30:57.595716 2023] [mpm_winnt:notice] [pid 16372:tid 816] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:32:12.643590 2023] [core:warn] [pid 17288:tid 784] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 19 01:32:12.649589 2023] [mpm_winnt:notice] [pid 17288:tid 784] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Dec 19 01:32:12.649589 2023] [mpm_winnt:notice] [pid 17288:tid 784] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Dec 19 01:32:12.649589 2023] [core:notice] [pid 17288:tid 784] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Tue Dec 19 01:32:12.659590 2023] [mpm_winnt:notice] [pid 17288:tid 784] AH00418: Parent: Created child process 17888
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 01:32:14.693915 2023] [mpm_winnt:notice] [pid 17888:tid 864] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:22:11.617839 2023] [core:warn] [pid 14132:tid 780] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 19 23:22:11.621926 2023] [mpm_winnt:notice] [pid 14132:tid 780] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Dec 19 23:22:11.621926 2023] [mpm_winnt:notice] [pid 14132:tid 780] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Dec 19 23:22:11.621926 2023] [core:notice] [pid 14132:tid 780] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Tue Dec 19 23:22:11.627838 2023] [mpm_winnt:notice] [pid 14132:tid 780] AH00418: Parent: Created child process 17668
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Tue Dec 19 23:22:12.839948 2023] [mpm_winnt:notice] [pid 17668:tid 848] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 20 17:00:16.633810 2023] [core:warn] [pid 4600:tid 792] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 20 17:00:16.638810 2023] [mpm_winnt:notice] [pid 4600:tid 792] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Dec 20 17:00:16.638810 2023] [mpm_winnt:notice] [pid 4600:tid 792] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Dec 20 17:00:16.638810 2023] [core:notice] [pid 4600:tid 792] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Wed Dec 20 17:00:16.647816 2023] [mpm_winnt:notice] [pid 4600:tid 792] AH00418: Parent: Created child process 8944
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Wed Dec 20 17:00:18.506084 2023] [mpm_winnt:notice] [pid 8944:tid 592] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 21 23:15:35.695611 2023] [core:warn] [pid 5108:tid 904] AH00098: pid file C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/run/qxZfMOt_z/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 21 23:15:35.701610 2023] [mpm_winnt:notice] [pid 5108:tid 904] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Dec 21 23:15:35.701610 2023] [mpm_winnt:notice] [pid 5108:tid 904] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Dec 21 23:15:35.701610 2023] [core:notice] [pid 5108:tid 904] AH00094: Command line: 'C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/HP EliteBook 840 G7/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\HP EliteBook 840 G7\\AppData\\Roaming\\Local\\run\\qxZfMOt_z\\conf\\apache\\apache2.conf'
+[Thu Dec 21 23:15:35.714609 2023] [mpm_winnt:notice] [pid 5108:tid 904] AH00418: Parent: Created child process 11548
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::5767:803c:d7a6:3789. Set the 'ServerName' directive globally to suppress this message
+[Thu Dec 21 23:15:37.237616 2023] [mpm_winnt:notice] [pid 11548:tid 864] AH00354: Child: Starting 64 worker threads.
